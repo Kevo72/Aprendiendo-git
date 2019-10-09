@@ -8,7 +8,7 @@ int main(){
 	printf("ANTES DE EMPEZAR MAXIMIZA LA CONSOLA :) !!!!!!!!!!\n");
 	printf("ANTES DE EMPEZAR MAXIMIZA LA CONSOLA :) !!!!!!!!!!\n\n");
 	printf(" -----------------------------------------------------\n");
-	printf(" |  Ingrese 1 para ver la magia de la programacion:  |\n ");
+	printf(" |       Ingrese el numero 1 para ver la magia :     |\n ");
 	printf("-----------------------------------------------------\n");
 	scanf("%i",&a);
 	
